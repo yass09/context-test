@@ -1,0 +1,1 @@
+export const SELECT_CAMPAIGN = "SELECT_CAMPAIGN";
